@@ -8,7 +8,10 @@ namespace 先物データ形式変換
 {
 	class 先物データ時間変更
 	{
+		void test()
+		{
 
+		}
 
 	}
 }
