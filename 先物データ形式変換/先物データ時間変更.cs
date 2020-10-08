@@ -11,6 +11,8 @@ namespace 先物データ形式変換
 		void test()
 		{
 			Console.WriteLine("test");
+
+			Console.WriteLine("test2");
 		}
 
 	}
