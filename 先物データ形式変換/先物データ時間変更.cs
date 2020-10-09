@@ -12,6 +12,7 @@ namespace 先物データ形式変換
 		{
 			Console.WriteLine("test");
 			Console.WriteLine("ブランチテスト2");
+			Console.WriteLine("プルリクエストテスト");
 		}
 
 	}
